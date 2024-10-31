@@ -1,6 +1,6 @@
 title: "Delitoast"
 author: "delitoast1"
-description: "my website test"color: #f45;\">&lt;3</b>"
+description: "my website test"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html",title: "home change", icon: home}
-  - {file: "README.md", title: "about me", icon: address card}
+  - {file: "README.md", title: "about me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:delitoast1@gmail.com"}
