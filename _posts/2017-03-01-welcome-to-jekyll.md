@@ -5,7 +5,7 @@ layout: post
 <script>
   $(document).ready(function() {
     $("#my life").css('color', 'red');
-    $("#my goals").html('<em>#target4</em>');
+    $("#my goals").html('<em>#my goals</em>');
   });
 </script>
 
@@ -15,17 +15,17 @@ layout: post
     <div class="col-xs-6">
       <h4>#left-well</h4>
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="my life">#target1</button>
-        <button class="btn btn-default target" id="my goals">#target2</button>
-        <button class="btn btn-default target" id="my hobbies">#target3</button>
+        <button class="btn btn-default target" id="my life">#my life</button>
+        <button class="btn btn-default target" id="my goals">#my goals</button>
+        <button class="btn btn-default target" id="my hobbies">#my hobbies</button>
       </div>
     </div>
     <div class="col-xs-6">
       <h4>#right-well</h4>
       <div class="well" id="right-well">
-        <button class="btn btn-default target" id="my desires">#target4</button>
-        <button class="btn btn-default target" id="my achievements">#target5</button>
-        <button class="btn btn-default target" id="others">#target6</button>
+        <button class="btn btn-default target" id="my desires">#my desires</button>
+        <button class="btn btn-default target" id="my achievements">#my achievements</button>
+        <button class="btn btn-default target" id="others">#others</button>
       </div>
     </div>
   </div>
