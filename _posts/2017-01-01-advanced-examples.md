@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "pictures corner"
 mathjax: true
 layout: post
 categories: media
