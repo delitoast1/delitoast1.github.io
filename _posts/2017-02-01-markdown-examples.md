@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "a test for tables"
 layout: post
 ---
 
